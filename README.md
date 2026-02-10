@@ -6,3 +6,5 @@ We will also implement play, pause, and stop controls, like those in a real audi
 By the end, you will have a clean and functional desktop audiobook app.
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/02/how-to-build-simple-audiobook-player.html
+
+![image_source](https://github.com/Kelvin-Data/...)
