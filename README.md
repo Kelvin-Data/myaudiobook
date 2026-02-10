@@ -7,4 +7,4 @@ By the end, you will have a clean and functional desktop audiobook app.
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/02/how-to-build-simple-audiobook-player.html
 
-![image_source](https://github.com/Kelvin-Data/...)
+![image_source](https://github.com/Kelvin-Data/My_audiobook/blob/b4bf0b1f1426cc7bac497119e5715ae2a724940d/MyAudiobook.png)
