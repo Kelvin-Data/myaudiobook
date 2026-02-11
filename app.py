@@ -148,9 +148,6 @@ my_content.pack(pady=10)
 button_frame = ctk.CTkFrame(root, height=50, width=500, corner_radius=10)
 button_frame.pack(pady=20)
 
-for i in range(3):  
-    button_frame.columnconfigure(i, weight=1)
-
 book_image = CTkImage(
     light_image=Image.open("media/book.png"),
     size=(30, 30)
